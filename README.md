@@ -1,2 +1,2 @@
 # projeto-meteora
- Projeto Meteora | Alura
+ Projeto <a href="https://vanessalaureano.github.io/projeto-meteora/">Meteora</a> | Alura
